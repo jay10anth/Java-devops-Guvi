@@ -18,6 +18,6 @@ public class CapstoneApplication {
 class HelloWorldController {
 @GetMapping("/hello")
 	public String hello() {
-	return "Hello Guys, Welcome to DevOps World! Yaashwin";
+	return "Hello Guys, Welcome to DevOps World! Jayanth";
 	}
 }
